@@ -1,7 +1,7 @@
 name: wifi_configuration
 description: Flutter Wifi Plugin.
 
-version: 2.0.0
+version: 2.1.0
 authors:
   - "Rohit Mishra <rohitkrmisra@gmail.com>"
   - "Rahul Kumawat <rahul@ukeysmart.com>"
